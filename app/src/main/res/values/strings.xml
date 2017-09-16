@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string></string>
+    <string name="app_name">First Test</string>
+    <string name="hello_text">Hello Kimmo!</string>
+
+    <string name="radio1_text">Meatballs</string>
+    <string name="radio2_text">Chicken</string>
+    <string name="radio3_text">Fish</string>
+    <string name="radio4_text">Steak</string>
+    <string name="radio5_text">Carrots</string>
+
+</resources>
